@@ -4,7 +4,8 @@
   "description": "\"jss-com-tdd\"",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+      "eslint":"./n"
   },
   "repository": {
     "type": "git",
